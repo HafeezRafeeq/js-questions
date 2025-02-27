@@ -42,6 +42,7 @@
 // console.log ("message")
 
 
+
 // 4 question solve
 // var useName = alert ("Abdul Hafeez")
 // var studentAge = alert (18)
@@ -79,6 +80,59 @@
 
 // 2 question solve
 // var visitTiem = alert ("You have visited this site 20 times")
+
+
+
+// 3 question solve
+// var birthYear = +prompt ("Enter your birth day year")
+// document.write ("my  birth year is" + " " + birthYear )
+// console.log (typeof birthYear)
+
+
+
+// 4 question solve
+
+// var username = prompt ( " Enter Your Name ")
+// var quantity = prompt ("Enter Yuor quantity Prodect ")
+// var productName = prompt (" Enter Your Product Name")
+// document.write (username  + " ordered" + " " + quantity +" " + productName + " "+"on XYZ Clothing Store"   )
+
+
+//4 chapter  ///////////////////////////////////////////////////////////////
+
+
+// 1 question solve
+// var num1 = prompt ("Enter your 1 nummber")
+// var num2 = prompt ("Enter your 2 nummber")
+// var num3 = prompt ("Enter your 3 nummber")
+// console.log (num1 + num2 + num3)
+
+
+// 2 question solve
+
+// legal variabil Name
+// userName
+// userName123
+// $price
+// userName
+// userName
+// age
+
+// ilegal variabil Name
+// 123userName
+// user-Name123
+// #price
+// @userName
+
+
+
+
+
+
+
+
+
+
 
 
 
