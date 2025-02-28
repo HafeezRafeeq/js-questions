@@ -126,6 +126,41 @@
 
 
 
+// 3 question solve
+// document.write ("<h1> Rules for naming JS variables</h1>")
+// document.write (" Variable names can only contain, Numbers, $ and _ , For example : $my_!st Variable <br>")
+// document.write ("  Variables must begin with a Letters, $ or _. For example: $name, _name or name <br>")
+// document.write (" Variable names are case Sensitive<br>")
+// document.write (" Variable names should not be JS KryWords <br>")
+
+
+
+//5 chapter  ///////////////////////////////////////////////////////////////
+
+
+// 1 qusetion solve
+// var num1 = +prompt ("Enter your 1st value")
+// var num2 = +prompt ("Enter your 2st value")
+// var num3 =  (num1 + num2)
+// document.write ("sum of " + num1 + " and " + num2 + " " + "is " + num3 )
+
+
+
+//  2 qusetion solve
+//  var num1 = +prompt ("Enter your 1st value")
+//  var num2 = +prompt ("Enter your 2st value")
+//  var num3 =  (num1 * num2)
+//  document.write ("sum of " + num1 + " and " + num2 + " " + "is " + num3) 
+
+//  var num1 = +prompt ("Enter your 1st value")
+//  var num2 = +prompt ("Enter your 2st value")
+//  var num3 =  (num1 / num2)
+//  document.write ("sum of " + num1 + " and " + num2 + " " + "is " + num3) 
+
+//  var num1 = +prompt ("Enter your 1st value")
+//  var num2 = +prompt ("Enter your 2st value")
+//  var num3 =  (num1 - num2)
+//  document.write ("sum of " + num1 + " and " + num2 + " " + "is " + num3) 
 
 
 
